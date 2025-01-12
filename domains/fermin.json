@@ -1,0 +1,11 @@
+{  
+    "description": "Fermin Martinez",
+    "repo": "https://github.com/ferminmg/register",
+    "owner": {
+      "username": "ferminmg",
+      "discord": "sombradolorosa"
+    },
+    "record": {
+      "CNAME": "ferminmg.github.io/scrapingcines"
+    }
+}
